@@ -1,0 +1,114 @@
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+d:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ChangePassWord.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDoAnUong.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieu.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChucVu.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fCaLam.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fReport.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeChamCong.resources
+D:\visual studio 2013\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXemChamCong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ChangePassWord.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fCaLam.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChucVu.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDoAnUong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieu.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fReport.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeChamCong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXemChamCong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ChangePassWord.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fCaLam.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChucVu.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDoAnUong.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieu.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fReport.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeChamCong.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXemChamCong.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.dll
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Fonts.dll
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Design.dll
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.dll
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ChangePassWord.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fCaLam.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChucVu.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDoAnUong.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieu.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fReport.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeChamCong.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXemChamCong.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\THANH TAM\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Design.dll
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.dll
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\MetroFramework.Fonts.dll
