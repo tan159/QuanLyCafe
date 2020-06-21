@@ -1,0 +1,9 @@
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\bin\Debug\QuanLyQuanCafeDB.dacpac
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\bin\Debug\QuanLyQuanCafeDB.dll
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\bin\Debug\QuanLyQuanCafeDB.pdb
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\obj\Debug\QuanLyQuanCafeDB.dll
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\obj\Debug\QuanLyQuanCafeDB.pdb
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\obj\Debug\Model.xml
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\obj\Debug\refactor.xml
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\obj\Debug\postdeploy.sql
+D:\1551010086_Lê Thành Nhân\QuanLyQuanCafe\QuanLyQuanCafeDB\obj\Debug\predeploy.sql
